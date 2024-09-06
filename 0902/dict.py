@@ -14,5 +14,5 @@ del dict[1]
 print(dict)
 
 #變更字典內的某個值
-dict[2]="D"
+dict[2]="E"
 print(dict)

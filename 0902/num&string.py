@@ -1,5 +1,5 @@
 num1 = 100
-num2 = 50
+num2 = 80
 name = "小白"
 name2 = "小黑"
 

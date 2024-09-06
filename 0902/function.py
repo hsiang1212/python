@@ -13,7 +13,7 @@ var(3,2)
 
 #有參數、有return的python def
 def find_max():
-    numbers = [10, 20, 30, 40, 50]
+    numbers = [10, 20, 30, 40, 50,60]
     return max(numbers)
 
 max_value = find_max()
